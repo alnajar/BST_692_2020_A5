@@ -20,6 +20,6 @@ The `some` function will have a manual page and a vignette to show how it works 
 
 We will evaluate the package base on:
 
-    + the clarity of the manual, vignette and the error messages 
-    + if it passes all the tests for a CRAN submitssionand
-    + if it gives the correct answers to our tests
++ the clarity of the manual, vignette and the error messages 
++ if it passes all the tests for a CRAN submitssionand
++ if it gives the correct answers to our tests
